@@ -13,7 +13,7 @@ Description : `Hash functions are used all over the internet in order to securel
 
 `I have attached a link showing how it should work. If you want you can add cool features like online cracking, etc.`
 
-Link : `https://asciinema.org/a/KVbR61oyXMxVqVNNLF88EMYbu`
+Link : [Asciinema](https://asciinema.org/a/KVbR61oyXMxVqVNNLF88EMYbu)
 
 Tags : `cyber-security`
 
